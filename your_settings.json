@@ -1,0 +1,22 @@
+{
+  "token": "NjM3NjAxOTc4Mzg1NTYzNjQ4.XbQjQA.q0ooI-MYnYMRAOmTJfm55O28rSM",
+  "prefix": "?",
+  "rainbowdelay": 1000,
+  "rainbowcommand": "regenbogen",
+  "rainbowstop": "stop",
+  "rainbowrole": [
+    "#9400D3",
+    "#4B0082",
+    "#0000FF",
+    "#00FF00",
+    "#FFFF00",
+    "#FF7F00",
+    "#FF0000"
+  ],
+  "messageresponse": {
+    "missingperm": ":x: Ich brauche die Permission: ``Rollen Verwalten``",
+    "success": ":white_check_mark: Lass den Regenbogen Spaﬂ beginnen!",
+    "rainbowstop": ":white_check_mark: Der Regenbogen hat sein Ende genommen :(",
+    "rolenotfound": ":x: Die Rolle wurde nicht Gefunden!"
+  }
+}
